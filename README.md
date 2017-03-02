@@ -1,6 +1,4 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas. **vue到底是什么?**
+#  **vue到底是什么?**
 
 ```
 一个mvvm框架\\(库\\)、和angular类似
